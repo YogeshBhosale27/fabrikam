@@ -1,0 +1,22 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YogeshBhosale27/fabrikam.git"
+  },
+  "author": "Yogesh Bhosale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YogeshBhosale27/fabrikam/issues"
+  },
+  "homepage": "https://github.com/YogeshBhosale27/fabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
